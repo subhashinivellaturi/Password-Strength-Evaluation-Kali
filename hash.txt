@@ -1,0 +1,2 @@
+Password hash of strong password generated using:
+echo 'Th1sIs$Tr0ng!' | openssl passwd -6 -stdin > hash.txt
